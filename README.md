@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🌟 **About Me** 🌟
+##  **About Me** 
 
 </div>
 
@@ -23,12 +23,12 @@
 ```typescript
 const ashutosh = {
     pronouns: "He/Him",
-    location: "India 🇮🇳",
+    location: "India ",
     role: "Full-Stack Developer",
     passion: "Building scalable solutions",
     currentFocus: ["React", "Node.js", "MongoDB", "DSA"],
     lifePhilosophy: "Code. Build. Break. Learn. Repeat.",
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "I turn coffee into code ☕ → "
 };
 
 class Developer extends Human {
@@ -36,15 +36,15 @@ class Developer extends Human {
         super();
         this.skills = new SkillSet();
         this.dreams = "Building apps that matter";
-        this.status = "Always learning 📚";
+        this.status = "Always learning ";
     }
     
     getCurrentProjects() {
         return [
-            "🔥 Modern Web Applications",
-            "⚡ Performance Optimization", 
-            "🧠 DSA Problem Solving",
-            "🌐 Full-Stack Solutions"
+            " Modern Web Applications",
+            " Performance Optimization", 
+            " DSA Problem Solving",
+            " Full-Stack Solutions"
         ];
     }
 }
@@ -54,7 +54,7 @@ class Developer extends Human {
 
 <div align="center">
 
-## 🚀 **Tech Arsenal** 🛠️
+## **Tech Arsenal** 
 
 ### Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -86,16 +86,16 @@ class Developer extends Human {
 
 <div align="center">
 
-## 🎯 **Current Mission** 🎯
+##  **Current Mission** 
 
 </div>
 
 ```diff
-+ 🔥 Building next-generation web applications
-+ 🌱 Mastering advanced React patterns & performance optimization
-+ 💡 Exploring microservices architecture with Node.js
-+ 🧠 Strengthening Data Structures & Algorithms foundation
-+ 🚀 Contributing to open-source projects
++  Building next-generation web applications
++  Mastering advanced React patterns & performance optimization
++  Exploring microservices architecture with Node.js
++  Strengthening Data Structures & Algorithms foundation
++  Contributing to open-source projects
 + ⚡ Learning DevOps and cloud technologies
 ```
 
@@ -112,11 +112,11 @@ class Developer extends Human {
 
 <div align="center">
 
-## 🤝 **Let's Connect & Build Something Amazing!** 🤝
+##  **Let's Connect & Build Something Amazing!** 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
-### 💬 **"The best way to predict the future is to create it"** 💬
+### **"The best way to predict the future is to create it"** 
 
 <p>
 <a href="https://portfoliofrontend-xi.vercel.app" target="_blank">
@@ -130,7 +130,7 @@ class Developer extends Human {
 
 <div align="center">
 
-### ⭐ **If you find my work interesting, consider giving it a star!** ⭐
+### **If you find my work interesting, consider giving it a star!** 
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
